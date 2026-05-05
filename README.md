@@ -40,7 +40,7 @@
 
 ### Getting Started
 
-**[User Guide](docs/USER_GUIDE.md)** - Complete guide to using the JVector plugin
+**[User Guide](docs/USER_GUIDE_a.md)** - Complete guide to using the JVector plugin
 - Quick start and installation
 - Creating indices and indexing data
 - Search operations and queries
